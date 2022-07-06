@@ -89,9 +89,9 @@ module.exports = {
     SUDO: process.env.SUDO === undefined ? false : process.env.SUDO,
     DEBUG: DEBUG,
     WITAI_API: "TEYMELA6DMC4XB5YM3SPTTQWUUIBKURG",
-    BOTCREATOR: "afnanplk",
-    MAHN: "919072790587,0",
-    SUPPORT: "919072790587-1635775355",
-    SUPPORT2: "905511384572-1617736751",
-    SUPPORT3: "905511384572-1621015274"
+    BOTCREATOR: "❥͜͡𝄟♥⃝•⩤⋆ᖇ𝓾ρ⋆⩥࿐ཽ༵•❥͜͡★",
+    MAHN: "918617845264,0",
+    SUPPORT: "918617845264",
+    SUPPORT2: "Nope🙂",
+    SUPPORT3: "Nope🙂"
 };
